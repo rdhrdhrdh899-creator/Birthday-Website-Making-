@@ -1,0 +1,6 @@
+{
+  "name": "A Little Something For You",
+  "description": "A personalized, cinematic, interactive birthday thank-you experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
